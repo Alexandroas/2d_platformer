@@ -1,0 +1,5341 @@
+fileFormatVersion: 2
+guid: 93f2e469889b2ca4a9339c7bb23d409b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1696
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c016c9b2bae5f1418ee71e2045908cf
+      internalID: -1801633291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1696
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51ef8c6339514428c2902aa170c2b3
+      internalID: 2039950951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1696
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1654bd1b7850944a9cc588c74c24d3
+      internalID: 1315053800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1696
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b2843fcbf2be488894ebfbbaf50f9
+      internalID: 1041622420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1696
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b911b8ed6e29147a68c0a389e7474d
+      internalID: -1245104033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1696
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f29868ec7534f740b7241ca6c75d444
+      internalID: 41391545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1696
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95a9c06833d194eb871f452fcda8f8
+      internalID: -1521023131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1696
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984bdbbafc0a5b5429356ebd1e0b24eb
+      internalID: -130377087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1638
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35bb89dda0f73744894500af7fd01af
+      internalID: 718286693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1638
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e24db07a2144a04fb3aef3df679ca1e
+      internalID: -1474249204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1638
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7505f4dede2e458815fab59556185
+      internalID: -579532255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1638
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ec857be1d9b7542bc0749456e122ec
+      internalID: 47177238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1638
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8a79b53508cc459339c676302da15
+      internalID: -225808959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1638
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e53600b4c7c6944db96d21b349abeca
+      internalID: -419273106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1638
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904dea88a66ec4f4cb7a1105b4f1f582
+      internalID: 354347432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1638
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bc96783d79b041b14f43408880e25
+      internalID: -1780992367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1638
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ceb4dc52ae2a344926204d31d55b98
+      internalID: -1499352572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1638
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296570d7c67b964ea5b179056252b57
+      internalID: -232623649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1638
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c511acdd44ac941aab3c5a6f88565a
+      internalID: 316514334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1638
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4b86d8a5b4ea4e835102f7fc23830
+      internalID: -697634743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1638
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc3dd82b9505e4fbf19bcb9c8fed67
+      internalID: -485649232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1638
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671674fddf376348b74f8e6cc27431a
+      internalID: -1422103204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1638
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8e15db46ef49439014e786faa33c2
+      internalID: 878960398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1580
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d4c9d9776d164ca502bcca94039cb
+      internalID: -1684018884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1580
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba54e4a5e530f3b4da777bc0eda40fb2
+      internalID: -1970774898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1580
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb4fd30761e77488af32d2865ce546
+      internalID: -1194889992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1580
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc55c42d0069ab4e822f30a9ebbdcab
+      internalID: -888943370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1580
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168000846f14e6448ee12fafd4e8769
+      internalID: 829773091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1583
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a053ff4b543c9545920a1d5960b7f97
+      internalID: -2054047250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1583
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b67c9296206cd4598518851f93b885
+      internalID: -1593100977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1583
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5ff3b9430b6d43a2535d89571784e
+      internalID: 1037655422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1584
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf86028fc9ec9d4abd22d8d50b97a8c
+      internalID: -270683113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1514
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3315c9b7a480f84fb36fc05e75ce904
+      internalID: 1006058472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1514
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11dd6d1c8e095f44be483f46405503e
+      internalID: 1421699015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1514
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091bfd9f1dbe604eb46dd7d13964ee1
+      internalID: -2048210981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1514
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c643013888221c42a2efaf443bca4d8
+      internalID: 330880843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1514
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec3ab2ce96d254692c1781b99a7035
+      internalID: -132914976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1514
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cc3f74a803923469463cc7c88c7292
+      internalID: -247585180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1514
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f5148403a53949b9f93aed0503269
+      internalID: -1133899269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1514
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60cb5cb339e4c46b1d66aa885d96a0
+      internalID: 2063998885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1514
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbe8e73ef8faa4783b8954bc7a6f96
+      internalID: 1624057799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1514
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213773d56930f954f8d3a708d8d1db7c
+      internalID: 1155331050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1514
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bfc09b88b81f42ab14eceb93555cb
+      internalID: -1543268317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1514
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064003ad7f71bc64d8ac16b05d2722c3
+      internalID: 1224094779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1514
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b863f8f72d7f7e459cb1a6d60aa1916
+      internalID: 634640093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1514
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a6655a64bcdd4584e5abeee242eec
+      internalID: 1781169092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1514
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcebcb4e75e15a40b2c6da1dd61fae4
+      internalID: 1600735684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1514
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca5af625146734e81eeaf1a58c1a16
+      internalID: 1816579251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1448
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94898039d6f95f4f8a7b05ed517c57a
+      internalID: 2097024251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1448
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08526c47ee70e2140a1f2ce0b5993ebe
+      internalID: -1379939355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1448
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01956a3d9a80eed43974fccc0bb00036
+      internalID: -1539217138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1448
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e56dee30b34a04bb6d4ad39e8d7c60
+      internalID: 2031088605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1448
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31c8041b580fe45827d42d77efb648
+      internalID: 9947570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1449
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155b13c56addd3418c21a72e10a1fd1
+      internalID: 555123775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1449
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36315d4829f9c8748974428f23dc66f8
+      internalID: -858215225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1447
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f698d9825673478b29297ad6b2f01
+      internalID: 634507291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1447
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069b95d7f569624aafd0750356d1a87
+      internalID: -917434449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1447
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5070a7ef554e44cad522189e7cc1ff
+      internalID: 1735558880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1447
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc8827617c63f49a066f371fc1d6a7
+      internalID: 1455910886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1447
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f5e76b66ae06e48977cfe16774ff9d
+      internalID: 243927997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1447
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef351288c5574348ae4337f8633d3fd
+      internalID: -838589570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1447
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d64eeafc2d6214291d8d1198502f73
+      internalID: -1841847788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1446
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aec512d7c3dd14f98ac8d00dfc3287
+      internalID: -880987774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1445
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2c9e530b6b0845bbe6a37ea8e9619
+      internalID: 682648827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1383
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dfa70d1a97ba24983b982125d58d82
+      internalID: -690598770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1383
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd08eace2c5fc44b9c2539a0318fe46
+      internalID: -539129664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1383
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9e561b9f4ce9d40aa63bc9d6aa5306
+      internalID: -1671984720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1383
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e8983070dc7a4aab3cabc736eb48b
+      internalID: -923093007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1383
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81ff1c862f4f4499e57fb37ac0ae43
+      internalID: 1868912804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1383
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba296153839aa0241a4a5643964b37b3
+      internalID: 6772971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1383
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb378397d8e0293469fbbd1f7533ed10
+      internalID: 764184712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1383
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041ddfd2df20d440bd36a57161ea260
+      internalID: -407342119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1383
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d46c3d39ef7e45929a2ba5f13fe4c
+      internalID: -1559716447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1383
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3fa5637e7ead42bd842ef0f9c81f7
+      internalID: -1673767349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1383
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a95bb88574c1f4783e3ee7bc1fcf55
+      internalID: -438666343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1383
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37622cab2f831dd47b6980c67e4e16f3
+      internalID: -1701161287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1320
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d3aceb76123144889aa5e0c6ca792
+      internalID: 609232557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1320
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb3b5783921404a92ada8e9f629a1b
+      internalID: 177222790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1320
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f26c7367c7bd44ebf0b235bb6b9925
+      internalID: -526765042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1320
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a734c12f1b614ab8cd87cb65c47bf
+      internalID: 1705590655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb75d2b97585d14bbbdfdfb9887c71b
+      internalID: 1354089967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1317
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913e687611284b41bb24c6ed971743a
+      internalID: -2082265404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1317
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a0ef8705264d846815aef21018c5d7
+      internalID: 57120772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1317
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9f8452b36192459446f7228ae2462
+      internalID: 1390651842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1317
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858e6e9e2b8f30c4a9a8a85174fb3690
+      internalID: -1719524673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1317
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a161fb706f05fb4385d7f0feb772747
+      internalID: 118533286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1317
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526b6fc23439024c845bbb6a48ddf42
+      internalID: 622479825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1317
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c94ba32ea65354baa4fb28d5a5ea49
+      internalID: -190017922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1320
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1f6baacccf9d429d1bf3afcb70880
+      internalID: -1850727989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1320
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9cdf01cbfb1fe41a553e074ed1660a
+      internalID: 55080885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1319
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a28d4248a502a408446087ec474591
+      internalID: -1333110650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1319
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74104b17e727c5a4983c8e64f143d2e8
+      internalID: -1719477225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1256
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445e3d794efc4948911f7b1798cfcf4
+      internalID: -567080021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1256
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d0278f28e0ddb4eadadc6be424966c
+      internalID: 411974596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1256
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3ca7d9752c484ba667b9445372ea0
+      internalID: 340631058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1256
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff01986268de6141a6e3045d8c03318
+      internalID: -136231166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1256
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73189c070f700fe4e9e45f66c3083e71
+      internalID: -292343215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1256
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4660e7c01e548041b58411c15af8570
+      internalID: -1580955093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1256
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605bc106d3909ab48897609e0fdce033
+      internalID: 199099427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1256
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08bbe157b797b343afaf2233d764b98
+      internalID: -341362382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1256
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecc81e7d5996c4fb6b2589fb68d034
+      internalID: -238739628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1255
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad34a1c4024c5d4da9d8cdf848f0314
+      internalID: 534215477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1255
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995932667da66c4db58561a54613a44
+      internalID: 162760074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1255
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335395c0e0a3c949b396cb138b67426
+      internalID: -1040019600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1187
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48477d25c8ad0b24899b6197d42175b1
+      internalID: -1039539699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1187
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e6fcbeb5eedb469522a6a35a0fac8
+      internalID: 40945265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1188
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3696a2c196174cb1453567a606c3e
+      internalID: 1075014596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1187
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a588aa17d9aa94b46bf85db68c633870
+      internalID: -1072643015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1187
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67c526fdd858148b01f975151321bb
+      internalID: 1415266870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1187
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d657f96c7e820d4b9bb0aa97bedeb99
+      internalID: -1745655540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1187
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7ef008d406ba46a3a88cccc0a82e4
+      internalID: 1991596977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1188
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198df4e61850651448cecc1d0918e8b1
+      internalID: 1663757464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1130
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ec26618e78dc4191ae026a897f116
+      internalID: 1005341521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1130
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dba9d39897ce9e428c5292dd4a1c53c
+      internalID: -1478418902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1128
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89f417556fb0f4f92d5c582bfb56d5
+      internalID: -1612043514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1136
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd10df1af3ab6442a50ddbf5e979a95
+      internalID: -537842619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1125
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9b3be123dc254889064c739c91037
+      internalID: -1895692383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1125
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14314b2422bf2e34293865408b5ec66b
+      internalID: 334613829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1125
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde97bf3d1f31654cba0215d33e6c5ce
+      internalID: 220832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86ff5315d675343b1c55764e3bdb62
+      internalID: 173144965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1126
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b701293620d454098ebb76d1aaec51
+      internalID: -801522541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1128
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d013cbf780764c86e892b45d2b9b0
+      internalID: 677479765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1128
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823a826f1371c3409697baa539d4362
+      internalID: -505091438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1129
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac6fa1e697a41744bdf6e758232245a
+      internalID: -1744584258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1129
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e721bc63aaaff4fa34f395ccaaf6d5
+      internalID: 493498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1130
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c667f3a226e646b9ce74823356a27
+      internalID: 904144151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1130
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d8f29098b61347a4ba2ecf4d588cb
+      internalID: -1388093719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1061
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0099b67915554b8f09f2ba6171b78
+      internalID: 619892378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1061
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32a92d7c8f50b4bab0bf9bb9d15788
+      internalID: -518261515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1060
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56dcf0ce2f8cbc418038a13d9eb8c87
+      internalID: 943611839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1061
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0f4e2575c46f4ab63e5734344a408
+      internalID: 846574085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1060
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b49065aceaa4645828fc177c703359
+      internalID: 250708136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1060
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658aba84cc5c0b48b07f661824a2b75
+      internalID: -1763200921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1060
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6812dd4213af7554fb3abd041394f35c
+      internalID: -1034475667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 998
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365970d6d432db4aa615a2e218ff497
+      internalID: -1389001521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 993
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f248b283ba5869d459bafbde8b9c5381
+      internalID: -739289055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 997
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f3d7a136ea64f46b9ed34febc6e965
+      internalID: 1584842414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 995
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be56d05a8c1e7d44a703f61af506bc3
+      internalID: -245660316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 995
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd1da9aaa4045418ba2adce6dbd7de
+      internalID: -1768894903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 994
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3324b4e8016ee84e8c0799057d9a6be
+      internalID: -1197861767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 887
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9591dbb0b33e4c989491f8cf69388
+      internalID: 1623149048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 887
+        width: 43
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224fb7799b5db84183cc4007449533e
+      internalID: 1804329882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 913
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d662635d3bbec446b1ab5cead0efc3f
+      internalID: -2005636445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_143
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 913
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f10a9d16b7fd743ba0affbe49650da
+      internalID: 1762448337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_144
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 922
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d687a0daa114c4d81f5e47f12c231c
+      internalID: 474101264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 897
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517d847eb0cbc56419079e5c2580fc68
+      internalID: 180655285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_146
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 896
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb41a80079f9f140b670305588c0288
+      internalID: 1198549980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_147
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 899
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda02779020a494e9ff9cd17e9467b5
+      internalID: 2086733759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_148
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d083f3dfcc3f94d929450546c5af12
+      internalID: -311369853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_149
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 834
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f145a22b02b149a4488646082cbce
+      internalID: -536827545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_150
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 834
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022cdb087b3290047b93793cbff39067
+      internalID: -2106381673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 834
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53347ed49a6f2794cb9fd89614f448b5
+      internalID: 585039477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_152
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 828
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37b991996958654181d1a78e0390f72
+      internalID: -1363934392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_153
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 759
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e95c9c7625ce4f951b601fe467b14
+      internalID: 444974427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_154
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 758
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdecf3d29991bf4086903830addbb61
+      internalID: -792894482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_155
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 758
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d286a4907fecb44e936cfc571110dbd
+      internalID: -1057538583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_156
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 758
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe141268ecfef4b9c8f41b01c655e8
+      internalID: -1146701969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_157
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 681
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55a928931c3d346bc0567adcd18da0
+      internalID: 1063702153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_158
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd60b929a88c22489e988e2f2877988
+      internalID: 2056161191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_159
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 679
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ebd325b8beb854b9e692b0097290e0
+      internalID: -41129462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 612
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c009853611c3246bda870f5bb75f30
+      internalID: -608136092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_161
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 610
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d414c2967be9d9b449b2b50a2ad53fac
+      internalID: -999731448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_162
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 608
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b460ea63d85b458712789738db08b
+      internalID: 1553902626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_163
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 609
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961301249c80384d96ad920c5766b12
+      internalID: -393749746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_164
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 609
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512d62058a0d7d4c95cdb518005ec2a
+      internalID: 1160164219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 609
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ff1bad351d9614895becad7ad7ad12
+      internalID: -752484142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_166
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 609
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469879a3a1f57d42ad306187c7a42be
+      internalID: 1950821543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 609
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8017630c6cbd664f93bbd8db8f9b709
+      internalID: -659340382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_168
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 609
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f446631cdcc164f8de3c8ea3170b3b
+      internalID: 630882135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_169
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 610
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b48b13c5bc4f04f809b366877f12be
+      internalID: -668203679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_170
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 610
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281548e022344ed409a3bb0d5c3c55ba
+      internalID: 1281649133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_171
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 548
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28a2b103949594d8ba1ab91afdb480
+      internalID: -1764101742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_172
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 548
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847841714b761745846ae1def6b6f99
+      internalID: 2086757234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_173
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 548
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cd48ae34fbb74aa7af6f7f0c8ccd5
+      internalID: -1981497886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_174
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 548
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c88bfe215f9d4c87c1085f5fdd19e
+      internalID: -68991171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_175
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 548
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363068e975bfbf847a9b5026008ca5a8
+      internalID: -796121781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_176
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 478
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c8b92bb12a9c46986abbea39ee350
+      internalID: 1513729296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_177
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 476
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8142144c9938134c9da44aec71f3a6c
+      internalID: -437984422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_178
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 478
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2320e94f29e14d9fad6ab4a31945c
+      internalID: 481855811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 478
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8209f7a0b463749a97f210dc2aa02e
+      internalID: 1720281740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_180
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 477
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3632c2be2a0bbd418b1cb30e42b1751
+      internalID: 548240418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_181
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 477
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0210e063449ae4c983c920e7f9bfa7
+      internalID: 1504299345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_182
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 476
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c164bfa51196ad46b869f9d3af6c176
+      internalID: 1398317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_183
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 480
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e04c7c30c37e4688c3f6d82fcb408
+      internalID: 1243343920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_184
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 435
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b79eafb0666994997b7d27407e3024
+      internalID: 1614248058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_185
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 435
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f0bc97b6ee3c4787f75c828330a0e
+      internalID: -1726862766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 435
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbfd20ab2e3d240b14a472c0f29fb3
+      internalID: 774545027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 434
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e17ce3aa5a52d4889e1db79dfc7c86
+      internalID: 499564738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_188
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 354
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6d9708fdab2949bb473b49422b5c4
+      internalID: 837139991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 354
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396d8c7137f616b4d8402eaee98d5f0d
+      internalID: 1043275515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_190
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 353
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744f24a9a2ff8e14899584262c9d9d08
+      internalID: 1393810531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_191
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 355
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833b049f7f9a5041b470caccfbaab21
+      internalID: -569137510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_192
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 355
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650280b2274c9754ba07c76a3431049d
+      internalID: -874666904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_193
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 355
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c95f2210fbef1f46ad8da830d9df41d
+      internalID: -207945714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_194
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 354
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22279c63b895ac44babb22f944899be3
+      internalID: -1790622182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_195
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 354
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7f1eea149e0104d83458cd1c7785c4
+      internalID: -1343688824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_196
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 354
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fb438e74e9dd34c9ebd868583b2f51
+      internalID: -1679822761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_197
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 354
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec32858f0337474ebcb47fd6bdbd46d
+      internalID: -1816304887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_198
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 354
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b81a2a4cc956a84d923302920e2b6fa
+      internalID: -696129825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_199
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 281
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0b480e7d39e348af7b2b781659faa
+      internalID: -440193699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_200
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 281
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921764f69f8a6f143a6fbb0e5d204dbd
+      internalID: 963629062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_201
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 281
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5357f41290fd764c956492c52c36ea6
+      internalID: -1040597539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_202
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 281
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318ab02257d75442afc48044ee09ea9
+      internalID: -769360373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 280
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078c319141ac2c41a797ce70d3aa882
+      internalID: 1746515314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_204
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 280
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f96ad9ddf845645bb28a1c2b9f015b
+      internalID: 1546589724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_205
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 218
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b0f714a632a044b854f42708358c4
+      internalID: 806980572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 218
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9f959f1c971a4f8995a290d075eb2
+      internalID: -926430744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_207
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 218
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b10a4e75a19d144aff14f47207beb0
+      internalID: 602267088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_208
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 221
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5200b55f3a519904499209e23343ef06
+      internalID: -1552780859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_209
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 219
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20628a8acda295242a0a9900ccd2c8b9
+      internalID: 1734343024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_210
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 219
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936641ff1a0fec64dbc303dcb5f4260c
+      internalID: 1932296558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_211
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 219
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3493d2dd1400aa047b5716e69bf145ea
+      internalID: 64767804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_212
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 148
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6f0fa10d1b634ba84f55bfe42c64f
+      internalID: -551092146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_213
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c97ec6148851d843a8762584ec3c471
+      internalID: -1399926750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_214
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e73ea6fbb8b740813ab70ef276736
+      internalID: 1814123645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_215
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 148
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406abbc0215357341be3ac2bec3bd519
+      internalID: -744928355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_216
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb294ad49b3b44197216f468759f6e
+      internalID: 2113940205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_217
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 147
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3bd02321f1f0409f68838df99fce9
+      internalID: -1316593061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_218
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 147
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25218926d08e76946b23238b3e67017e
+      internalID: -321353206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_219
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 148
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331e5857ab444643b9c741229b3ebee
+      internalID: -110792317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_220
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 148
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633771452e02a70498e801d1d061e022
+      internalID: -17454740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_221
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 148
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc6270e1fed5f4a8b5ea7ceb54be15
+      internalID: -1032941000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_222
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 147
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4755b115d48cf5468cfc7fe66f59c59
+      internalID: -946612561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_223
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 73
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d07157465e151488d3257ea070c481
+      internalID: -63654642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_224
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b20ce3057e1a0458aca9cf37eecc66
+      internalID: -1600564505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_225
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e45176074dd27468bb993db4bb5b01
+      internalID: -1489430735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_226
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 74
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8f763483a5ab4d868d33a7ced948e
+      internalID: -594900229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_227
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b972eeadef1dac646b73b91f7e39e023
+      internalID: -1125562824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_228
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 75
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92f4661ef97b764fbda9681e9951be1
+      internalID: -1067970887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_229
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 78
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10b3f71dd24414c965d952ea69a138
+      internalID: 331918514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_230
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 80
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e0eafc864124340bf93cf0e638d772
+      internalID: -1350710042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_231
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 79
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e39d9f4463cd1409d2885b8c8857a7
+      internalID: -963494461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_232
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 81
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a35cbdcd7930644ada0b87048f0286
+      internalID: 2080347581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_233
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 81
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e861acc344ea4c978a68a315baf40
+      internalID: 892622350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_234
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 79
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbab01e0433d1604c99f86fc4d625b78
+      internalID: -902437627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_235
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 80
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f9efb48f6c2f45955cf96877f6a45
+      internalID: -1998287994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 269
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d25689743ef8e4dbd38363ab449f16
+      internalID: 33490782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_0: -1801633291
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_1: 2039950951
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_10: -579532255
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_100: -238739628
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_101: 534215477
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_102: 162760074
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_103: -1040019600
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_104: -1039539699
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_105: 40945265
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_106: 1075014596
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_107: -1072643015
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_108: 1415266870
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_109: -1745655540
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_11: 47177238
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_110: 1991596977
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_111: 1663757464
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_112: 1005341521
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_113: -1478418902
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_114: -1612043514
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_115: -537842619
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_116: -1895692383
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_117: 334613829
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_118: 220832881
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_119: 173144965
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_12: -225808959
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_120: -801522541
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_121: 677479765
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_122: -505091438
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_123: -1744584258
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_124: 493498696
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_125: 904144151
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_126: -1388093719
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_127: 619892378
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_128: -518261515
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_129: 943611839
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_13: -419273106
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_130: 846574085
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_131: 250708136
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_132: -1763200921
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_133: -1034475667
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_134: -1389001521
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_135: -739289055
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_136: 1584842414
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_137: -245660316
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_138: -1768894903
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_139: -1197861767
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_14: 354347432
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_140: 1623149048
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_141: 1804329882
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_142: -2005636445
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_143: 1762448337
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_144: 474101264
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_145: 180655285
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_146: 1198549980
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_147: 2086733759
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_148: -311369853
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_149: -536827545
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_15: -1780992367
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_150: -2106381673
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_151: 585039477
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_152: -1363934392
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_153: 444974427
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_154: -792894482
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_155: -1057538583
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_156: -1146701969
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_157: 1063702153
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_158: 2056161191
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_159: -41129462
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_16: -1499352572
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_160: -608136092
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_161: -999731448
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_162: 1553902626
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_163: -393749746
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_164: 1160164219
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_165: -752484142
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_166: 1950821543
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_167: -659340382
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_168: 630882135
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_169: -668203679
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_17: -232623649
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_170: 1281649133
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_171: -1764101742
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_172: 2086757234
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_173: -1981497886
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_174: -68991171
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_175: -796121781
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_176: 1513729296
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_177: -437984422
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_178: 481855811
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_179: 1720281740
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_18: 316514334
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_180: 548240418
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_181: 1504299345
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_182: 1398317208
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_183: 1243343920
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_184: 1614248058
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_185: -1726862766
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_186: 774545027
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_187: 499564738
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_188: 837139991
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_189: 1043275515
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_19: -697634743
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_190: 1393810531
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_191: -569137510
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_192: -874666904
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_193: -207945714
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_194: -1790622182
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_195: -1343688824
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_196: -1679822761
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_197: -1816304887
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_198: -696129825
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_199: -440193699
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_2: 1315053800
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_20: -485649232
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_200: 963629062
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_201: -1040597539
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_202: -769360373
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_203: 1746515314
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_204: 1546589724
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_205: 806980572
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_206: -926430744
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_207: 602267088
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_208: -1552780859
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_209: 1734343024
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_21: -1422103204
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_210: 1932296558
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_211: 64767804
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_212: -551092146
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_213: -1399926750
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_214: 1814123645
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_215: -744928355
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_216: 2113940205
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_217: -1316593061
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_218: -321353206
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_219: -110792317
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_22: 878960398
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_220: -17454740
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_221: -1032941000
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_222: -946612561
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_223: -63654642
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_224: -1600564505
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_225: -1489430735
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_226: -594900229
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_227: -1125562824
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_228: -1067970887
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_229: 331918514
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_23: -1684018884
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_230: -1350710042
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_231: -963494461
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_232: 2080347581
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_233: 892622350
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_234: -902437627
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_235: -1998287994
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_236: 33490782
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_24: -1970774898
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_25: -1194889992
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_26: -888943370
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_27: 829773091
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_28: -2054047250
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_29: -1593100977
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_3: 1041622420
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_30: 1037655422
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_31: -270683113
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_32: 1006058472
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_33: 1421699015
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_34: -2048210981
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_35: 330880843
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_36: -132914976
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_37: -247585180
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_38: -1133899269
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_39: 2063998885
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_4: -1245104033
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_40: 1624057799
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_41: 1155331050
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_42: -1543268317
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_43: 1224094779
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_44: 634640093
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_45: 1781169092
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_46: 1600735684
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_47: 1816579251
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_48: 2097024251
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_49: -1379939355
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_5: 41391545
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_50: -1539217138
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_51: 2031088605
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_52: 9947570
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_53: 555123775
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_54: -858215225
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_55: 634507291
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_56: -917434449
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_57: 1735558880
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_58: 1455910886
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_59: 243927997
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_6: -1521023131
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_60: -838589570
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_61: -1841847788
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_62: -880987774
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_63: 682648827
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_64: -690598770
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_65: -539129664
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_66: -1671984720
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_67: -923093007
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_68: 1868912804
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_69: 6772971
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_7: -130377087
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_70: 764184712
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_71: -407342119
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_72: -1559716447
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_73: -1673767349
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_74: -438666343
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_75: -1701161287
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_76: 609232557
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_77: 177222790
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_78: -526765042
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_79: 1705590655
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_8: 718286693
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_80: 1354089967
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_81: -2082265404
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_82: 57120772
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_83: 1390651842
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_84: -1719524673
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_85: 118533286
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_86: 622479825
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_87: -190017922
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_88: -1850727989
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_89: 55080885
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_9: -1474249204
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_90: -1333110650
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_91: -1719477225
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_92: -567080021
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_93: 411974596
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_94: 340631058
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_95: -136231166
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_96: -292343215
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_97: -1580955093
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_98: 199099427
+      DS_DSi_-_Castlevania_Dawn_of_Sorrow_-_Alucard-removebg_99: -341362382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

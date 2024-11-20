@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 6e7fe3e83f90b504b8eb4d92f29def32
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765541d2a9dd4244299b358f01d6ab2e
+      internalID: 1177273379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 390
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b503289607d8e42b742e16f8e3414d
+      internalID: -1570578864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 390
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b9c28a8eb30994fb49a33e612ad862
+      internalID: -296311062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 390
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5003063a67ac7468ceb523c058ca10
+      internalID: -312698415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c5e2c104bbb094aa78dcab2b700c19
+      internalID: 168199104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 299
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cf0ef2a5cb4f418254f3e668a510c
+      internalID: -1554764450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 300
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf937143fa038b845bb34fffaf9366ed
+      internalID: -529609360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 300
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02dbfafa128a924b996b902139d0572
+      internalID: -583615955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61a92441f4346342a068413400e1014
+      internalID: -315636981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580b8e5040520845afceb64fec6c857
+      internalID: 1527452332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 300
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e4798afbbfd8b4db47606551ee1348
+      internalID: 1800204553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 300
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4007d871f9854194a3bda891001d8
+      internalID: -1944444798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 299
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ab30fa0edf944e95aa0d8d11c63a1
+      internalID: -821971344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 203
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c519e0685901844da390823c2ac6784
+      internalID: -761866539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b7dc93f796ef4fa87e4f9f0c40080
+      internalID: 784225112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 209
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff59418812a152d429a9ac22710dec78
+      internalID: -199272369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9e274bbdcbfd4ab3b5034918b5c8c
+      internalID: 1707232530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 207
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dceb1b78ae4cf49984a72e49d1cc85
+      internalID: 362446985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 209
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740694e53c1f9f545bbdf9e25e4b8495
+      internalID: -1491616372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcfe574e9d47d748bb3572b00a14254
+      internalID: -866555656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082da9b922945545b663426dfcfc414
+      internalID: 1611322927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 112
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05527fe02f56ddc47806bbada74ecad4
+      internalID: -924220893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 112
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5947e73eb6ad46a007c022c6f7c33
+      internalID: 1277056139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3f445cade8a574bb5d4a63b455289a
+      internalID: 188459220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785a500f9a95a641831b0436d78efab
+      internalID: -428368133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0d5bebfe09f14e8ff8821fd7ca007
+      internalID: -175570051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6ef9aa6d5aae4cb819e2c5c93dbbd
+      internalID: -1286302364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Vampire Survivors - Alucard_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 21
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b5a24ecd779645b2cea5a234ad290
+      internalID: -1618074811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Vampire Survivors - Alucard_0: 1478921395
+      PC Computer - Vampire Survivors - Alucard_1: -601666015
+      PC Computer - Vampire Survivors - Alucard_10: -1570578864
+      PC Computer - Vampire Survivors - Alucard_11: -296311062
+      PC Computer - Vampire Survivors - Alucard_12: -312698415
+      PC Computer - Vampire Survivors - Alucard_13: 168199104
+      PC Computer - Vampire Survivors - Alucard_14: -1228927607
+      PC Computer - Vampire Survivors - Alucard_15: 422353472
+      PC Computer - Vampire Survivors - Alucard_16: 7652158
+      PC Computer - Vampire Survivors - Alucard_17: 1636936899
+      PC Computer - Vampire Survivors - Alucard_18: 2025680724
+      PC Computer - Vampire Survivors - Alucard_19: -1554764450
+      PC Computer - Vampire Survivors - Alucard_2: 507862680
+      PC Computer - Vampire Survivors - Alucard_20: -529609360
+      PC Computer - Vampire Survivors - Alucard_21: -583615955
+      PC Computer - Vampire Survivors - Alucard_22: -315636981
+      PC Computer - Vampire Survivors - Alucard_23: 1527452332
+      PC Computer - Vampire Survivors - Alucard_24: 1800204553
+      PC Computer - Vampire Survivors - Alucard_25: -1944444798
+      PC Computer - Vampire Survivors - Alucard_26: -821971344
+      PC Computer - Vampire Survivors - Alucard_27: 1327582033
+      PC Computer - Vampire Survivors - Alucard_28: -715165350
+      PC Computer - Vampire Survivors - Alucard_29: -1282857173
+      PC Computer - Vampire Survivors - Alucard_3: -1830573671
+      PC Computer - Vampire Survivors - Alucard_30: 1527869534
+      PC Computer - Vampire Survivors - Alucard_31: -1758645601
+      PC Computer - Vampire Survivors - Alucard_32: 1935359303
+      PC Computer - Vampire Survivors - Alucard_33: 624653957
+      PC Computer - Vampire Survivors - Alucard_34: 1980106268
+      PC Computer - Vampire Survivors - Alucard_35: -761866539
+      PC Computer - Vampire Survivors - Alucard_36: 784225112
+      PC Computer - Vampire Survivors - Alucard_37: -199272369
+      PC Computer - Vampire Survivors - Alucard_38: 1707232530
+      PC Computer - Vampire Survivors - Alucard_39: 362446985
+      PC Computer - Vampire Survivors - Alucard_4: -860194683
+      PC Computer - Vampire Survivors - Alucard_40: -1491616372
+      PC Computer - Vampire Survivors - Alucard_41: -1374113490
+      PC Computer - Vampire Survivors - Alucard_42: -23037968
+      PC Computer - Vampire Survivors - Alucard_43: -741116171
+      PC Computer - Vampire Survivors - Alucard_44: -659742323
+      PC Computer - Vampire Survivors - Alucard_45: -61625593
+      PC Computer - Vampire Survivors - Alucard_46: -2140015294
+      PC Computer - Vampire Survivors - Alucard_47: -166669002
+      PC Computer - Vampire Survivors - Alucard_48: -1235675255
+      PC Computer - Vampire Survivors - Alucard_49: -866555656
+      PC Computer - Vampire Survivors - Alucard_5: -1083591152
+      PC Computer - Vampire Survivors - Alucard_50: 1611322927
+      PC Computer - Vampire Survivors - Alucard_51: -924220893
+      PC Computer - Vampire Survivors - Alucard_52: 1277056139
+      PC Computer - Vampire Survivors - Alucard_53: 188459220
+      PC Computer - Vampire Survivors - Alucard_54: -428368133
+      PC Computer - Vampire Survivors - Alucard_55: -1214553080
+      PC Computer - Vampire Survivors - Alucard_56: -2017919970
+      PC Computer - Vampire Survivors - Alucard_57: 1095832586
+      PC Computer - Vampire Survivors - Alucard_58: 258215612
+      PC Computer - Vampire Survivors - Alucard_59: 986551474
+      PC Computer - Vampire Survivors - Alucard_6: -2041263730
+      PC Computer - Vampire Survivors - Alucard_60: 1587837613
+      PC Computer - Vampire Survivors - Alucard_61: 1248538747
+      PC Computer - Vampire Survivors - Alucard_62: -200307850
+      PC Computer - Vampire Survivors - Alucard_63: -1786414280
+      PC Computer - Vampire Survivors - Alucard_64: -1931653151
+      PC Computer - Vampire Survivors - Alucard_65: -175570051
+      PC Computer - Vampire Survivors - Alucard_66: -1286302364
+      PC Computer - Vampire Survivors - Alucard_67: -1618074811
+      PC Computer - Vampire Survivors - Alucard_68: -295269279
+      PC Computer - Vampire Survivors - Alucard_7: -1345769693
+      PC Computer - Vampire Survivors - Alucard_8: -1911808094
+      PC Computer - Vampire Survivors - Alucard_9: 1177273379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
