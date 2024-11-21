@@ -9,11 +9,14 @@ public class PlayerHealth : MonoBehaviour
     [Header("Health Settings")]
     [SerializeField] private int maxHealth = 5;
     private int currentHealth;
+    
     [Header ("Sprite display")]
     [SerializeField] private SpriteRenderer playerSprite;
     [SerializeField] private Sprite[] healthSprites;
+    [SerializeField] private Sprite[] manaSprites;
     [Header("UI Display")]
     [SerializeField] private Image heartFill; // Reference to UI fill image
+    [SerializeField] private Image manaFill; // Reference to UI fill image
 
     [SerializeField] private float  invincibilityTime = 1.0f;
     [SerializeField] private UnityEvent onDeath;
@@ -51,7 +54,18 @@ public class PlayerHealth : MonoBehaviour
             Debug.Log($"Heart fill amount: {heartFill.fillAmount}");
         }
     }
-
+    public void UpdateManaDisplay(int currentMana, int maxMana)
+    {
+        float manaPercentage = (float)currentMana / maxMana;
+        //Debug.Log($"Mana percentage: {manaPercentage}");
+        
+        if (manaFill != null)
+        {
+            // Update the fill amount of the mana image
+            manaFill.fillAmount = manaPercentage;
+            //Debug.Log($"Mana fill amount: {manaFill.fillAmount}");
+        }
+    }
 
     public void TakeDamage(int damage)
     {
