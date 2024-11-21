@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e5ec200056cee6345bad094f6e095e33
+guid: 4eaa2c1dde1502d45916c2c4960b8b1a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,34 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Health Bar_0
+      name: NOBG Magic Bottle_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 8
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e64d0c34a73aef34db546ecf4ef52155
-      internalID: -1563720663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mana heart
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 8
-        width: 11
-        height: 16
+        x: 23
+        y: 33
+        width: 15
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +124,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a393144a667731e48a284333795a6212
-      internalID: -1982211669
+      spriteID: 7c2d681b196ed4d419beed51165ee013
+      internalID: -1822598122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBG Magic Bottle_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba632e4147e5143bc13f422c35edee
+      internalID: 1006773293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBG Magic Bottle_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e51eafd8cd9542b6c933964500d85
+      internalID: 276705228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBG Magic Bottle_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 22
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75ee1f5a10c5f4a9b0465a7445f7f7
+      internalID: -2042097512
       vertices: []
       indices: 
       edges: []
@@ -162,8 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Health Bar_0: -1563720663
-      mana heart: -1982211669
+      NOBG Magic Bottle_0: -1822598122
+      NOBG Magic Bottle_1: 1006773293
+      NOBG Magic Bottle_2: 276705228
+      NOBG Magic Bottle_3: -2042097512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

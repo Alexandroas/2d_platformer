@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 741760669ff40b944999437c60b139b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 348
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25163459c6bc6b74a9851a24d4ac6acf
+      internalID: -1284728759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 348
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4bffa96d42f594ba727e946f1fa938
+      internalID: -1117118768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 348
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e69b0a43f877b46b6a1272565887ab
+      internalID: -1230342164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 348
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c65c23abbe75459b7a324a6e85a08
+      internalID: -444868293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 347
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438beb506285a44c81b567ce3ceeee4
+      internalID: -2062046423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 347
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39993652fbe0e94ea34827ae83cf610
+      internalID: 571888728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 348
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108a98c873b0e1488f65d901f7bb92c
+      internalID: 126093037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 348
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51297b391b0d442b59a60d6c6081e3
+      internalID: -140613738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 348
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df964460f6ff44b96d5bca4ca4443e
+      internalID: 1642868715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 348
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2f3dd0b336fd42a08ef94fa2a3ec2
+      internalID: 988451517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 347
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaf349526644a949be841b75101cf5e
+      internalID: -27464239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 347
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1cfad1c843ef9419c9f1e9623ea8ec
+      internalID: -346447310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 307
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b95a52c33cc2b4292130a3df8ba07a
+      internalID: 38486836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 307
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061c9e536eea854ba09232c2ee0db08
+      internalID: 1860621730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 307
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd8c7dca5f87e4789890ae0a2ef85a
+      internalID: -476229918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 307
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b04ffe08ca50a4eb593bd026c1d27e
+      internalID: -1583546249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf157614fffcd42ad6265e47088397
+      internalID: -804409133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 307
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc8b9a69baee045aef75b56b5a039b
+      internalID: -1310686437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 307
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db38ccbfc7abb4f81107f1f36b570e
+      internalID: 1908809560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 307
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f9c8adb80e2da489d0cddf5e550017
+      internalID: 308312856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 307
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da356df2699da584889849115e2af56a
+      internalID: 1556407802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 307
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436af36c03a55b74d9abcfa0b7dea4db
+      internalID: -2064686914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b92c631155754ea79f38d430dbbe7
+      internalID: -706161190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 267
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9f8bcf5881a84aaa181226a3ccb69
+      internalID: 1909713314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e03356c85aab468f8a414df1912d6
+      internalID: 77314499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7199a3d813bd478972dcdbc09130b
+      internalID: -1990606189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb870fcfedd97e40942eef74baf13ee
+      internalID: 2006933987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 267
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da537dc3b3fefb40b961e46b21e20d5
+      internalID: -1120823421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 267
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc4821ad47c9d49bccefd315033bae
+      internalID: -759325009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 267
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b9332ce41c364d947c712cb64dea0
+      internalID: -1162999956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 219
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd1f00e015e0a4e9fe85fe10c4cad2
+      internalID: 726114462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 219
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daae9f205b6716419471fb80d50209a
+      internalID: 1776267250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e600494c9c41ce45b15e9de8f48a8c3
+      internalID: 1601822539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 219
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed0193453b8374b9f90bb7f89e3d24
+      internalID: -1165915019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 219
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373567ce14f73a440b07bc4fd52789bd
+      internalID: -1995174005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 219
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c2567f754929428bf2b6d75dc3ccd
+      internalID: -409728963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 219
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3214bc513e71c046bbc047b6832db67
+      internalID: -578390368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 219
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a522c137698d41b43796e1ee59cc1
+      internalID: -1312096423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a3e3255fa3094aaed2208001d9232
+      internalID: -144597313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 219
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8e6d5ebef87a40aeeccfea97b678b
+      internalID: -1493758533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 219
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4bbd912efda9438929c248294f74e
+      internalID: -869675712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_41
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 219
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1558e8ee5f58439ea9bb4f80a68d5
+      internalID: 2060674504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d6cce1e791ed44bed762d93984d8a
+      internalID: 1344980501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 179
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189b7116f05d21941a531177072ab518
+      internalID: -329984625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 179
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5f201155b67d459eff1d623a5e408
+      internalID: -1809124249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 179
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464ebf9b81184e4eb9553d05f06ffe9
+      internalID: 1159843329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 179
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9672bc92d65054c99d3f513b04895d
+      internalID: 396796442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 180
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8bec3fbb53094fa51a2d2b15fc5b3
+      internalID: 1763404604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 179
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e537da0c59b09c41b8223a1bd34a412
+      internalID: -900945948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 179
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559d0ff79fe3f74eaca05203d8a1184
+      internalID: 109308585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 179
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ad7849077824428f4804fda2d0744
+      internalID: -1865811515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_51
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 179
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5012657d40f8b4998af0df641a5585
+      internalID: 153503961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0636b6abec0e89b47861de0845ae2bb1
+      internalID: 1502707273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 139
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de0cc4ed997ea4891bc0b40fc5dbe1
+      internalID: 651708521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c3edd20ddfbc42b5c2b06fcf760a3
+      internalID: -451080361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018253f433f03c428ee1f468e978236
+      internalID: 1715859287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b6e2cd49ebff4cb8b1f34c80d6525
+      internalID: -548986453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_57
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 139
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723a394f6535cc4aabc1e6669dc76cb
+      internalID: 1718241053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_58
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 139
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba451192184dc1349b31d0442df99984
+      internalID: -5642511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_59
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf09615d3b6605429c92da96a32fc8c
+      internalID: -1445595892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NOBGMakai Kingdom - Book_60
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 251
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470905e7b70fdf44a9f8c99c3f67f622
+      internalID: 14881030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NOBGMakai Kingdom - Book_0: -1284728759
+      NOBGMakai Kingdom - Book_1: -1117118768
+      NOBGMakai Kingdom - Book_10: -27464239
+      NOBGMakai Kingdom - Book_11: -346447310
+      NOBGMakai Kingdom - Book_12: 38486836
+      NOBGMakai Kingdom - Book_13: 1860621730
+      NOBGMakai Kingdom - Book_14: -476229918
+      NOBGMakai Kingdom - Book_15: -1583546249
+      NOBGMakai Kingdom - Book_16: -804409133
+      NOBGMakai Kingdom - Book_17: -1310686437
+      NOBGMakai Kingdom - Book_18: 1908809560
+      NOBGMakai Kingdom - Book_19: 308312856
+      NOBGMakai Kingdom - Book_2: -1230342164
+      NOBGMakai Kingdom - Book_20: 1556407802
+      NOBGMakai Kingdom - Book_21: -2064686914
+      NOBGMakai Kingdom - Book_22: -706161190
+      NOBGMakai Kingdom - Book_23: 1909713314
+      NOBGMakai Kingdom - Book_24: 77314499
+      NOBGMakai Kingdom - Book_25: -1990606189
+      NOBGMakai Kingdom - Book_26: 2006933987
+      NOBGMakai Kingdom - Book_27: -1120823421
+      NOBGMakai Kingdom - Book_28: -759325009
+      NOBGMakai Kingdom - Book_29: -1162999956
+      NOBGMakai Kingdom - Book_3: -444868293
+      NOBGMakai Kingdom - Book_30: 726114462
+      NOBGMakai Kingdom - Book_31: 1776267250
+      NOBGMakai Kingdom - Book_32: 1601822539
+      NOBGMakai Kingdom - Book_33: -1165915019
+      NOBGMakai Kingdom - Book_34: -1995174005
+      NOBGMakai Kingdom - Book_35: -409728963
+      NOBGMakai Kingdom - Book_36: -578390368
+      NOBGMakai Kingdom - Book_37: -1312096423
+      NOBGMakai Kingdom - Book_38: -144597313
+      NOBGMakai Kingdom - Book_39: -1493758533
+      NOBGMakai Kingdom - Book_4: -2062046423
+      NOBGMakai Kingdom - Book_40: -869675712
+      NOBGMakai Kingdom - Book_41: 2060674504
+      NOBGMakai Kingdom - Book_42: 1344980501
+      NOBGMakai Kingdom - Book_43: -329984625
+      NOBGMakai Kingdom - Book_44: -1809124249
+      NOBGMakai Kingdom - Book_45: 1159843329
+      NOBGMakai Kingdom - Book_46: 396796442
+      NOBGMakai Kingdom - Book_47: 1763404604
+      NOBGMakai Kingdom - Book_48: -900945948
+      NOBGMakai Kingdom - Book_49: 109308585
+      NOBGMakai Kingdom - Book_5: 571888728
+      NOBGMakai Kingdom - Book_50: -1865811515
+      NOBGMakai Kingdom - Book_51: 153503961
+      NOBGMakai Kingdom - Book_52: 1502707273
+      NOBGMakai Kingdom - Book_53: 651708521
+      NOBGMakai Kingdom - Book_54: -451080361
+      NOBGMakai Kingdom - Book_55: 1715859287
+      NOBGMakai Kingdom - Book_56: -548986453
+      NOBGMakai Kingdom - Book_57: 1718241053
+      NOBGMakai Kingdom - Book_58: -5642511
+      NOBGMakai Kingdom - Book_59: -1445595892
+      NOBGMakai Kingdom - Book_6: 126093037
+      NOBGMakai Kingdom - Book_60: 14881030
+      NOBGMakai Kingdom - Book_7: -140613738
+      NOBGMakai Kingdom - Book_8: 1642868715
+      NOBGMakai Kingdom - Book_9: 988451517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
