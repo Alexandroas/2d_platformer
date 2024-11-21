@@ -110,10 +110,10 @@ MonoBehaviour:
   targetLayers:
     serializedVersion: 2
     m_Bits: 64
-  flyingSound: {fileID: 8300000, guid: 49855fc15362367469adbeeee8fdc37b, type: 3}
+  flyingSound: {fileID: 8300000, guid: 3e060409d3fbb964282d149c49b3ed5b, type: 3}
   destroyAnimation: {fileID: 7400000, guid: a2a91247ddc98a54ea67db3fdd7bf0af, type: 2}
   playDestroyAnimation: 1
-  impactSound: {fileID: 8300000, guid: ee496e05df74a6d4d936fd445ac701ae, type: 3}
+  impactSound: {fileID: 8300000, guid: 9a46637141a2ab243aba262465b6934a, type: 3}
   volumeScale: 0.5
 --- !u!50 &9095593390668502477
 Rigidbody2D:
